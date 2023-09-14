@@ -1,0 +1,20 @@
+[
+    {
+        "description": "",
+        "firstname": "alef",
+        "lastname": "bet",
+        "phone": "12345678",
+        "photo": "",
+        "token": "123123",
+        "uid": 1
+    },
+    {
+        "description": "",
+        "firstname": "udi",
+        "lastname": "shshsh",
+        "phone": "234234",
+        "photo": "",
+        "token": "abcabc",
+        "uid": 2
+    }
+]
